@@ -1,1 +1,2 @@
 Dit is een test pagina om naar Github over te zetten.
+Dit is om te kijken of Github werkt.
